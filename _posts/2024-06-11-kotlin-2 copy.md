@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 코틀린을 배워보자! 코틀린 문법 1
-subtitle: ㅇ
+subtitle: 코틀린 문법을 배워보자!
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
@@ -9,7 +9,7 @@ tags: [Kotlin]
 author: EomYoosang
 ---
 
-# 코틀린을 배워보자! [2]
+# 코틀린을 배워보자! 코틀린 문법 1
 
 이번 포스트는 코틀린 문법 정리입니다. 장황한 설명보단 간단히 정리할게요.
 
@@ -35,6 +35,7 @@ a = 456             // 선언 후 값 변경 불가
 ```
 var a: Int = 123
 var s: String = a.toString()
+```
 
 ## 3. 배열
 
