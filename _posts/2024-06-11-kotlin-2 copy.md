@@ -197,8 +197,8 @@ class Dog(var name1: String, var age1: Int) : Animal(name1, age1, "강아지"){
 }
 ```
 
-### 추상 클래스
-### 인터페이스
+### 추상클래스 & 인터페이스
+> 추상클래스와 인터페이스에 관한 내용은 따로 포스트에 정리하겠습니다...!
 ## enum 클래스
 ## Collection List
 ## 다형성 as
