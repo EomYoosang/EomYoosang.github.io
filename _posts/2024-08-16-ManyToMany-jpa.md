@@ -1,6 +1,6 @@
 ---
 layout: post
-title: @ManyToMany를 사용하지 않는 이유
+title: "@ManyToMany를 사용하지 않는 이유"
 subtitle: 다대다 관계는 일대다&다대일로 풀어내자
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
